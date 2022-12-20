@@ -1,1 +1,7 @@
-## Welcome to PongChul Github !
+## Value : Basis for the claim ✏️
+꾸준함에 대한 중요성을 누구보다 알고 있어 1일 1Commit을 활성화 합니다.
+
+내가 작성한 코드에 대한 근거가 반드시 필요하다고 생각합니다.
+
+새로운 스킬에 대하여 거부감이 없고 빠르게 흡수하기 위해 노력합니다.
+
