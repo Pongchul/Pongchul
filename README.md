@@ -5,3 +5,9 @@
 
 새로운 스킬에 대하여 거부감이 없고 빠르게 흡수하기 위해 노력합니다.
 
+<br>
+<div>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongchul&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
+ </a>
+</div>
