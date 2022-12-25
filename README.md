@@ -8,7 +8,7 @@
 <br>
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongchul&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pongchul&layout=compact&theme=merko&exclude_repo=R_programming,galaxy-ai-contest,beaniejoy.github.io" />
  </a>
 </div>
 
